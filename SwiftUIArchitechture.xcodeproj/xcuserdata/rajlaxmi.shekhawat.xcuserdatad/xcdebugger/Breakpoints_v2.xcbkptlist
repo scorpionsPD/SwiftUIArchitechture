@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "86606E3D-C438-4F48-B0FD-42C29DB17F86"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "027AC305-61A3-41BB-B36B-B8A78A975CA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIArchitechture/AppConfiguration.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "initialize()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A1E5379-A399-4864-88DA-6D1FD8C10856"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIArchitechture/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "loadHomeArticles()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FA023F7-D1D4-4F79-96E6-DE9DFCCC286E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIArchitechture/Modals/HomeStories.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "138"
+            endingLineNumber = "138"
+            landmarkName = "homeScreenApi(page:category:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3F299664-FC4C-45F3-8BD9-5BF2274E2F5C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIArchitechture/HomeViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "loadStories(complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "3F299664-FC4C-45F3-8BD9-5BF2274E2F5C - 5fac1911ac56b4b5"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Development.HomeViewModal.loadStories(complition: (Swift.Array&lt;Development.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Development"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajlaxmi.shekhawat/Desktop/SwiftUIArchitechture/SwiftUIArchitechture/HomeViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "342">
+               </Location>
+               <Location
+                  uuid = "3F299664-FC4C-45F3-8BD9-5BF2274E2F5C - 35a90afc79e4139b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Development.HomeStories, Swift.Error&gt;) -&gt; () in Development.HomeViewModal.loadStories(complition: (Swift.Array&lt;Development.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Development"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajlaxmi.shekhawat/Desktop/SwiftUIArchitechture/SwiftUIArchitechture/HomeViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "129">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBCD5730-0FE7-4E78-AED8-6B3849314A4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIArchitechture/HomeViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "loadStories(complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EEEBBAB3-CFF8-4E3C-9E34-2450A29BA0B8"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIArchitechture/HomeViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "loadStories(complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EEEBBAB3-CFF8-4E3C-9E34-2450A29BA0B8 - 35a90afc79e4139b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Development.HomeStories, Swift.Error&gt;) -&gt; () in Development.HomeViewModal.loadStories(complition: (Swift.Array&lt;Development.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Development"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajlaxmi.shekhawat/Desktop/SwiftUIArchitechture/SwiftUIArchitechture/HomeViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "EEEBBAB3-CFF8-4E3C-9E34-2450A29BA0B8 - 35a90afc79e4139b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Development.HomeStories, Swift.Error&gt;) -&gt; () in Development.HomeViewModal.loadStories(complition: (Swift.Array&lt;Development.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Development"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajlaxmi.shekhawat/Desktop/SwiftUIArchitechture/SwiftUIArchitechture/HomeViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E9D23DD7-280B-4279-A4DB-BBEC041164DA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIArchitechture/HomeViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "loadStories(complition:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E954FAC4-50D9-40ED-922F-A2A0D625E9C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SwiftUIArchitechture/HomeViewModal.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "loadStories(complition:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "E954FAC4-50D9-40ED-922F-A2A0D625E9C3 - 35a90afc79e4139b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Development.HomeStories, Swift.Error&gt;) -&gt; () in Development.HomeViewModal.loadStories(complition: (Swift.Array&lt;Development.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Development"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajlaxmi.shekhawat/Desktop/SwiftUIArchitechture/SwiftUIArchitechture/HomeViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "129">
+               </Location>
+               <Location
+                  uuid = "E954FAC4-50D9-40ED-922F-A2A0D625E9C3 - 35a90afc79e4139b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Development.HomeStories, Swift.Error&gt;) -&gt; () in Development.HomeViewModal.loadStories(complition: (Swift.Array&lt;Development.Article&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "Development"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rajlaxmi.shekhawat/Desktop/SwiftUIArchitechture/SwiftUIArchitechture/HomeViewModal.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "276">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
